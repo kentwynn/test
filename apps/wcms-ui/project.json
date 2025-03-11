@@ -1,0 +1,9 @@
+{
+  "name": "wcms-ui",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/wcms-ui",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project wcms-ui --web",
+  "targets": {}
+}
